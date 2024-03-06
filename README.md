@@ -1,6 +1,4 @@
-Based on your project description, I've drafted an outline for a README file for your three-tier application deployment on AWS using Kubernetes (k8s) and Docker. Feel free to modify this template to better suit your project's specifics or add any additional sections you think might be helpful.
-
----
+--
 
 # Three-Tier Application Deployment on AWS using Kubernetes and Docker
 
